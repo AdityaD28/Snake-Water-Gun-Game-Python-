@@ -74,6 +74,7 @@ snake-water-gun-game/
 ## 🙌 Author
 
 Developed by Aditya Dasappanavar 
+
 This is a beginner-level project built for learning and practice.
 
 
