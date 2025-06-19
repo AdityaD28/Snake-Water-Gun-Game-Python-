@@ -1,19 +1,19 @@
-# 🐍 Snake, Water, Gun Game (Python)
+#  Snake, Water, Gun Game (Python)
 
 A fun and beginner-friendly Python terminal game where the player competes against the computer in a game of Snake, Water, and Gun — a twist on the classic Rock, Paper, Scissors.
 
 ---
 
-## 🎮 Game Rules
+## Game Rules
 
-- 🐍 **Snake drinks Water** → Snake wins  
-- 💧 **Water douses Gun** → Water wins  
-- 🔫 **Gun kills Snake** → Gun wins  
+- **Snake drinks Water** → Snake wins  
+-  **Water douses Gun** → Water wins  
+-  **Gun kills Snake** → Gun wins  
 - If both choose the same option, it's a **draw**
 
 ---
 
-## 🚀 How to Play
+##  How to Play
 
 1. Make sure **Python 3** is installed on your computer
 2. Download or clone this repository
@@ -30,7 +30,7 @@ A fun and beginner-friendly Python terminal game where the player competes again
 
 ---
 
-## ✨ Features
+##  Features
 
 - Random computer moves
 - User input via keyboard
@@ -40,7 +40,7 @@ A fun and beginner-friendly Python terminal game where the player competes again
 
 ---
 
-## 🧠 Concepts Used
+##  Concepts Used
 
 - `input()` for user input
 - `random.choice()` for computer move
@@ -49,7 +49,7 @@ A fun and beginner-friendly Python terminal game where the player competes again
 
 ---
 
-## 🖼️ Sample Output
+## Sample Output
 
 ```
 Enter your choice: s
@@ -71,7 +71,7 @@ snake-water-gun-game/
 
 ---
 
-## 🙌 Author
+## Author
 
 Developed by Aditya Dasappanavar 
 
@@ -80,6 +80,6 @@ This is a beginner-level project built for learning and practice.
 
 ---
 
-## 📜 License
+## License
 
 This project is open-source and free to use for learning purposes.
