@@ -82,4 +82,4 @@ This is a beginner-level project built for learning and practice.
 
 ## License
 
-This project is open-source and free to use for learning purposes.
+This project is licensed under the MIT License. See LICENSE for details.
